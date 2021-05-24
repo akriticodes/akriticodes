@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
  
-- 🌱 I’m currently learning Front End Libraries and Automation Testing
+- 🌱 I’m currently learning Java 
 - 📫 How to reach me: akritibagale@gmail.com
 - ⚡ Fun fact: I am always up for deep conversations
 -->
